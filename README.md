@@ -1,7 +1,7 @@
 ```zsh
 ▸ fastfetch
 ```
-<img align="left" width="291" src="https://avatars.githubusercontent.com/u/72949798" style="border-radius: 5px" />
+<img align="left" width="326" src="https://avatars.githubusercontent.com/u/72949798" style="border-radius: 5px" />
 
 ```csharp
 metonator@homelab
