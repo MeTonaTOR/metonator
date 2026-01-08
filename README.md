@@ -1,22 +1,24 @@
 ```zsh
->> neofetch
+▸ fastfetch
 ```
 <img align="left" width="291" src="https://avatars.githubusercontent.com/u/72949798" style="border-radius: 5px" />
 
 ```csharp
 metonator@homelab
------------------
-OS: Ubuntu 25.10 x86_64
-Host: Dell Optiplex 7040
-Kernel: Linux 6.17.0-8-generic
-Uptime: 24/7
-Packages: 1413 (dpkg), 5 (snap)
-Shell: bash 5.2.37
-Terminal: /dev/pts/2
-CPU: Intel(R) Core(TM) i7-7700 (8) @ 4.20 GHz
-GPU: Nvidia RTX 3050 6GB
-Memory: 4.50 GiB / 61.58 GiB (7%)
-Swap: 641.09 MiB / 121.94 GiB (1%)
-Disk (/): 664.69 GiB / 7.16 TiB (9%) - btrfs
-Locale: pl_PL.UTF-8
+────────────────────────────────────
+OS        Ubuntu 25.10 x86_64
+Host      Dell OptiPlex 7040
+Kernel    6.17.0-8-generic
+Uptime    24/7
+
+CPU       i7-7700 @ 4.20 GHz (8T)
+GPU       RTX 3050 6GB
+
+RAM       4.5 / 61.6 GiB (7%)
+Swap      0.6 / 121.9 GiB (1%)
+Disk      664.7 / 7.16 TiB btrfs
+
+Shell     bash 5.2.37
+TTY       /dev/pts/2
+Locale    pl_PL.UTF-8
 ```
