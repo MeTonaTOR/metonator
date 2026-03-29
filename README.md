@@ -6,19 +6,16 @@
 ```csharp
 metonator@homelab
 ────────────────────────────────────
-OS        Ubuntu 25.10 x86_64
-Host      Dell OptiPlex 7040
-Kernel    6.17.0-8-generic
+OS        Windows 11 Pro 25H2 (26200.8039)
+Host      Dell OptiPlex 5070
 Uptime    24/7
 
-CPU       i7-7700 @ 4.20 GHz (8T)
+CPU       i7-9700 @ 4.26 GHz (8T)
 GPU       RTX 3050 6GB
 
-RAM       4.5 / 61.6 GiB (7%)
-Swap      0.6 / 121.9 GiB (1%)
-Disk      664.7 / 7.16 TiB btrfs
+RAM       31.8 GiB
+Disk [1]  7.16 TiB btrfs
+Disk [2]  1.72 TiB btrfs
 
-Shell     bash 5.2.37
-TTY       /dev/pts/2
 Locale    pl_PL.UTF-8
 ```
